@@ -1,6 +1,8 @@
 
-<h1 align="center">Maximiliano Minutillo</h1>
-<h2 align="center">Full Stack Developer 🖥️</h2>
+<h1 align="center">Maximiliano Minutillo 
+<h3 align="center">Full Stack Developer 🖥️</h3>
+</h1>
+
 
 ## Hello
 
