@@ -23,6 +23,7 @@ Furthemore thanks to my bootcamp experience i'm able to develop front-end and ba
 
 ## Contact
 
-Find more about me in the following link.
+  <a href="mailto:maximilminu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maximilminu@gmail.com"/></a>&nbsp;&nbsp;
+   <a href="https://discord.gg/Maximiliano Minutillo#4359"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/FR9R8dH"/></a>&nbsp;&nbsp;
 
 * Linkedin [website](https://www.linkedin.com/in/maximiliano-minutillo/)
