@@ -15,15 +15,17 @@ Furthemore thanks to my bootcamp experience i'm able to develop front-end and ba
 * Agile Scrum Methodology
 * Javascript, React, React Native, Node.js, Express, Redux, PostgreSQL. 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+<p align="center">  
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 ## Contact
-
+<p align="center">
   <a href="mailto:maximilminu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maximilminu@gmail.com"/></a>&nbsp;&nbsp;
-   <a href="https://discord.gg/Maximiliano Minutillo#4359"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/FR9R8dH"/></a>&nbsp;&nbsp;
-
-* Linkedin [website](https://www.linkedin.com/in/maximiliano-minutillo/)
+  <a href="https://www.linkedin.com/in/maximiliano-minutillo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maximiliano-minutillo/"/></a>
+</p>
