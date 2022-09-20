@@ -1,18 +1,24 @@
-<div>
-<h1 align="center">Maximiliano Minutillo</h1>
-<h3 align="center">Full Stack Developer 🖥️</h3>
-</div>
+Hi 👋 My name is Jalinson Diaz
+==============================
+Full-Stack Developer 🖥️
+--------------------------------------
 
 
 ## Hello
 
-My name is Maximiliano, I'm from Argentina and I'm a junior Full Stack Developer, who likes to face new challenges and continue learning. 
-Furthemore thanks to my bootcamp experience i'm able to develop front-end and back-end skills and feel comfortable doing both.
+I'm technology enthusiast, who likes to face new challenges and a lifelong learner.
+* 🌍 I'm based in Buenos Aires, Argentina.
+* 🔭 Have a look at my personal [**Portfolio**](https://maximilminu-portfolio.vercel.app/) to find out more about me.
+*  ✉️ You can contact me at [**maximilminu@gmail.com**](mailto:maximilminu@gmail.com )
+* 🧠 I'm currently learning **TypeScript** and **Angular**.
+* 🤝 I'm open to collaborating on Front-end and Back-end Projects.
+* 🏊 Random fact, I'm a really good swimmer.
+
 
 ## Skills
 
-* Analytical, flexible, problem solving and fast learning skills.
-* Agile Scrum Methodology
+* Analytical, flexible, problem solving and fast learner.
+* Agile Scrum Methodology.
 * Javascript, React, React Native, Node.js, Express, Redux, PostgreSQL. 
 
 <p align="center">  
@@ -30,3 +36,4 @@ Furthemore thanks to my bootcamp experience i'm able to develop front-end and ba
   <a href="mailto:maximilminu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maximilminu@gmail.com"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maximiliano-minutillo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maximiliano-minutillo/"/></a>
 </p>
+
