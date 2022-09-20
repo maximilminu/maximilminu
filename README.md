@@ -8,7 +8,7 @@ Full-Stack Developer 🖥️
 
 I'm technology enthusiast, who likes to face new challenges and a lifelong learner.
 * 🌍 I'm based in Buenos Aires, Argentina.
-* 🔭 Have a look at my personal [**Portfolio**](https://maximilminu-portfolio.vercel.app/) to find out more about me. <a href="https://maximilminu-portfolio.vercel.app/"><img src="https://maximilminu-portfolio.vercel.app/static/media/logo-max.741a616a930bcae68b37.png" width="50" /></a>
+* 🔭 Have a look at my personal [**Portfolio**](https://maximilminu-portfolio.vercel.app/) to find out more about me.
 *  ✉️ You can contact me at [**maximilminu@gmail.com**](mailto:maximilminu@gmail.com )
 * 🧠 I'm currently learning **TypeScript** and **Angular**.
 * 🤝 I'm open to collaborating on Front-end and Back-end Projects.
