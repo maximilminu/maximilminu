@@ -8,7 +8,7 @@ Full-Stack Developer 🖥️
 
 I'm technology enthusiast, who likes to face new challenges and a lifelong learner.
 * 🌍 I'm based in Buenos Aires, Argentina.
-* 🔭 Have a look at my personal [**Portfolio**](https://maximilminu-portfolio.vercel.app/) to find out more about me.
+* 🔭 Have a look at my personal [**Portfolio**](https://maximilminu-portfolio.vercel.app/) to find out more about me. <a href="https://maximilminu-portfolio.vercel.app/"><img src="https://maximilminu-portfolio.vercel.app/static/media/logo-max.741a616a930bcae68b37.png" width="50"/></a>
 *  ✉️ You can contact me at [**maximilminu@gmail.com**](mailto:maximilminu@gmail.com )
 * 🧠 I'm currently learning **TypeScript** and **Angular**.
 * 🤝 I'm open to collaborating on Front-end and Back-end Projects.
@@ -33,6 +33,7 @@ I'm technology enthusiast, who likes to face new challenges and a lifelong learn
 
 ## Contact
 <p align="center">
+  <a href="https://maximilminu-portfolio.vercel.app/"><img src="https://maximilminu-portfolio.vercel.app/static/media/logo-max.741a616a930bcae68b37.png" width="70"/></a>&nbsp;&nbsp;
   <a href="mailto:maximilminu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maximilminu@gmail.com"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maximiliano-minutillo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maximiliano-minutillo/"/></a>
 </p>
