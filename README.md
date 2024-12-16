@@ -8,9 +8,9 @@ Full-Stack Developer 🖥️
 
 I'm technology enthusiast, who likes to face new challenges and a lifelong learner.
 * 🌍 I'm based in Buenos Aires, Argentina.
+* 🧠 I'm currently Coding with **Golang** and **Node.js**.
+* ✉️ You can contact me at [**maximilminu@gmail.com**](mailto:maximilminu@gmail.com )
 * 🔭 Have a look at my personal [**Portfolio**](https://maximilminu-portfolio.vercel.app/) to find out more about me.
-*  ✉️ You can contact me at [**maximilminu@gmail.com**](mailto:maximilminu@gmail.com )
-* 🧠 I'm currently learning **TypeScript** and **Angular**.
 * 🤝 I'm open to collaborating on Front-end and Back-end Projects.
 * 🏊 Random fact, I'm a really good swimmer.
 
@@ -18,10 +18,14 @@ I'm technology enthusiast, who likes to face new challenges and a lifelong learn
 ## Skills
 
 * Analytical, flexible, problem solving and fast learner.
-* Agile Scrum Methodology.
-* Javascript, React, React Native, Node.js, Express, Redux, PostgreSQL. 
+* Golang, Gin-Gonic, Node.js, Javascript, Express.
+* MySQL, ArangoDB, TD-Engine, PostgreSQL, RedisDB.
+* Traefik, Migrations, Docker.
+* Agile Methodology, Jira, Slack.
+
 
 <p align="center">  
+  <img alt="Golang" src="[https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
